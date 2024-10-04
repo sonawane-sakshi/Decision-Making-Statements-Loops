@@ -1,5 +1,5 @@
 //Sakshi Sonawane
-//PRN;24070123505
+//PRN:24070123505
 // Implementation Of Star Pyramid
 #include<iostream>
 using namespace std;
