@@ -9,3 +9,10 @@ int main() {
         cin >> name;
     } while (name != "STOP"); 
 }
+/*
+**Output**
+Enter the string
+sakshi
+Enter the string
+STOP
+*/
